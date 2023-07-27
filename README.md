@@ -25,7 +25,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your_username/lip_syncing_model.git
+git clone https://github.com/def-TharunL/lip_syncing_model.git
 ```
 
 2. Navigate to the project directory:
